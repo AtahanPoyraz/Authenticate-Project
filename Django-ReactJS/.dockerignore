@@ -1,0 +1,9 @@
+.docker
+
+app-backend/__pycache__/
+app-backend/*/__pycache__/
+app-backend/*/*/__pycache__/
+app-backend/*/*/*/__pycache__/
+.env/
+.venv/
+venv
